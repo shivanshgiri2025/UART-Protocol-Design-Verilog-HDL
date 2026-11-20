@@ -1,23 +1,4 @@
 
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 14.11.2026 19:20:38
-// Design Name: 
-// Module Name: Baud_Rate_Generator
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 module Baud_Rate_Generator(input clk,output tx_enb,rx_enb);
 
 reg [12:0] tx_counter;
