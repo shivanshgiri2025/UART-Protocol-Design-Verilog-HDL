@@ -1,25 +1,4 @@
-
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 15.11.2026 22:44:50
-// Design Name: 
-// Module Name: Receiver
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 `timescale 1ns / 1ps
-
 module Receiver(
     input clk,
     input rst,
